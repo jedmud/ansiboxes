@@ -1,0 +1,25 @@
+{
+  "name": "ansiboxes",
+  "version": "0.0.1",
+  "description": "Terminal Ui interface using ansi escape codes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmud/ansiboxes.git"
+  },
+  "keywords": [
+    "terminal",
+    "ui",
+    "ansi",
+    "boxes"
+  ],
+  "author": "Tanel Tammik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmud/ansiboxes/issues"
+  },
+  "homepage": "https://github.com/jedmud/ansiboxes#readme"
+}
